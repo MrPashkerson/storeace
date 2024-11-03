@@ -5,3 +5,5 @@ The project enhances operational efficiency, enables data-driven decision-making
 More info (only in Russian):
 
 ![more-info.svg](more-info.svg)
+
+https://drive.google.com/file/d/1_0oznZcSFa4N0JYrZnNReSJlYe1ZyA78/view?usp=drivesdk
